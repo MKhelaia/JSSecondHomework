@@ -74,7 +74,7 @@
 //     console.log("hello");
 // } else if (user.name === 'levani') {
 //     console.log("hello levani");
-// } else if (user.studentstatus === 'active' && user.age < 25) {
+// } else if (user.studentstatus === 'active' || user.age < 25) {
 //     console.log("hello world");
 // } else {
 //     console.log("Error");
